@@ -16,7 +16,7 @@ const Footer = () => {
 
                 {/* LinkedIn */}
                 <a href="https://www.linkedin.com/in/k-lakshiita-651a7b275/" target="_blank" rel="noopener noreferrer" className="social-icon">
-                    <img src="public/assets/icons8-linkedin-50.png" alt="LinkedIn" className="w-1/2 h-1/2" />
+                    <img src="/icons8-linkedin-50.png" alt="LinkedIn" className="w-1/2 h-1/2" />
                 </a>
             </div>
 

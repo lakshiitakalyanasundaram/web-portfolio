@@ -32,7 +32,7 @@ export const myProjects = [
             'Developed a secure digital lock system using STSAFE A110 and ESP32. Enhanced security and control over digital lock access management.\n' +
             'Improved encryption and optimized key management for data integrity. Implemented encryption, subscription-based keys, and Arduino IDE integration. Ensured secure, controlled digital lock access with robust data protection.',
         href: "public/Report.pdf",
-        texture: 'public/textures/project/giphy.mp4',
+        texture: '/textures/project/giphy.mp4',
         logo: '/assets/project-logo1.png',
         logoStyle: {
             backgroundColor: '#000000 ',
