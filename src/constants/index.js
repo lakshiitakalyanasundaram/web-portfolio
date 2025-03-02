@@ -24,7 +24,7 @@ export const myProjects = [
         tags: [
             { id: 1, name: 'C', path: '/assets/c-1.webp' },
             { id: 2, name: 'Arduino IDE', path: '/assets/Arduino_Logo.webp' },
-            { id: 3, name: 'ST Microelectronics', path: '/assets/stmicroelectronics-ezgif.com-webp-to-png-converter.png' },
+            { id: 3, name: 'ST Microelectronics', path: 'public/assets/Screenshot.png' },
         ],
     },
     {
@@ -55,8 +55,8 @@ export const myProjects = [
         date: 'January-May 2024',
         desc: 'Developed an IoT-based automatic pet feeder with real-time monitoring and adaptive feeding.',
         subdesc: 'Engineered a smart feeder with ML-based feeding adjustments. Enhanced livestock health and sustainability through optimized nutrition.',
-        href: '/petfeeder.pdf',
-        texture: '/textures/project/petfeeder.mp4',
+        href: '/project/petfeeder.pdf',
+        texture: '/project/petfeeder.mp4',
         logo: '/assets/petfeeder.png',
         logoStyle: {
             backgroundColor: '#60f5a1',
