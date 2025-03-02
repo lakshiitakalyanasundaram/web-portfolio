@@ -2,7 +2,7 @@ export const navLinks = [
     {
         id: 1,
         name: 'Home',
-        href: '#home',
+        href: '#hero',
     },
     {
         id: 2,
@@ -12,7 +12,7 @@ export const navLinks = [
     {
         id: 3,
         name: 'Work',
-        href: '#work',
+        href: '#projects',
     },
     {
         id: 4,
@@ -104,7 +104,7 @@ export const myProjects = [
             '\n' +
             'With a user-friendly Streamlit interface, users can easily input comments and receive instant feedback on the toxicity and its type. It uses the Meta-Llama-3.1-8B-Instruct-Turbo model for precise analysis.\n' +
             '\n',
-        href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+        href: 'public/textures/project/project2.mp4',
         texture: 'public/textures/project/project2.mp4',
         logo: 'public/assets/comment toxicitiy detection logo  copy 2.png',
         logoStyle: {
@@ -194,29 +194,31 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
     {
         id: 1,
-        name: 'Framer',
-        pos: 'Lead Web Developer',
-        duration: '2022 - Present',
-        title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
-        icon: '/assets/framer.svg',
+        name: 'Programming Languages',
+        title: "C, Python , C++",
+        icon: 'public/assets/programming.png',
         animation: 'victory',
     },
     {
         id: 2,
-        name: 'Figma',
-        pos: 'Web Developer',
-        duration: '2020 - 2022',
-        title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
-        icon: '/assets/figma.svg',
+        name: 'Development',
+        title: "Machine Learning , Gen AI , LLMs , IOT ",
+        icon: 'public/assets/machine-learning.png',
         animation: 'clapping',
     },
     {
         id: 3,
-        name: 'Notion',
-        pos: 'Junior Web Developer',
-        duration: '2019 - 2020',
-        title: "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
-        icon: '/assets/notion.svg',
+        name: 'Database',
+        title: "PostgreSQL",
+        icon: 'public/assets/database.png',
         animation: 'salute',
     },
+    {
+        id: 4,
+        name: 'Version Control and Collaboration',
+        title: "Git and Github ",
+        icon: 'public/assets/merge.png',
+        animation: 'salute',
+    },
+
 ];
