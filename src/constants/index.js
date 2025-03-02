@@ -12,7 +12,7 @@ export const myProjects = [
         date: 'June-July 2024',
         desc: 'A secure digital lock system using STSAFE A110 and ESP32 with enhanced encryption, subscription-based keys, and controlled access management.',
         subdesc: 'Developed a secure digital lock system using STSAFE A110 and ESP32. Implemented encryption, subscription-based keys, and ensured controlled access with Arduino IDE integration.',
-        href: 'public/Report.pdf',
+        href: '/textures/project/Report.pdf',
         texture: '/textures/project/giphy.mp4',
         logo: '/assets/project-logo1.png',
         logoStyle: {
@@ -55,7 +55,7 @@ export const myProjects = [
         date: 'January-May 2024',
         desc: 'Developed an IoT-based automatic pet feeder with real-time monitoring and adaptive feeding.',
         subdesc: 'Engineered a smart feeder with ML-based feeding adjustments. Enhanced livestock health and sustainability through optimized nutrition.',
-        href: 'public/pet.pdf',
+        href: '/textures/project/pet.pdf',
         texture: '/textures/project/IOT.mp4',
         logo: '/assets/petfeeder.png',
         logoStyle: {
