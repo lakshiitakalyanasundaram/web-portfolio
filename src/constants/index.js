@@ -24,7 +24,7 @@ export const myProjects = [
         tags: [
             { id: 1, name: 'C', path: '/assets/c-1.webp' },
             { id: 2, name: 'Arduino IDE', path: '/assets/Arduino_Logo.webp' },
-            { id: 3, name: 'ST Microelectronics', path: '/assets/stmicroelectronics.png' },
+            { id: 3, name: 'ST Microelectronics', path: '/assets/stmicroelectronics-ezgif.com-webp-to-png-converter.png' },
         ],
     },
     {
@@ -35,7 +35,7 @@ export const myProjects = [
         subdesc: 'Integrates advanced NLP and AI models to classify comments as toxic or non-toxic. Uses a Streamlit interface for user interaction and Meta-Llama-3.1-8B-Instruct-Turbo for analysis.',
         href: '/textures/project/project2.mp4',
         texture: '/textures/project/project2.mp4',
-        logo: '/assets/comment-toxicity-detection.png',
+        logo: '/assets/stm.png',
         logoStyle: {
             backgroundColor: '#13202F',
             border: '0.2px solid #17293E',
@@ -43,9 +43,9 @@ export const myProjects = [
         },
         spotlight: '/assets/spotlight2.png',
         tags: [
-            { id: 1, name: 'Python', path: '/assets/python.png' },
-            { id: 2, name: 'AI', path: '/assets/ai.png' },
-            { id: 3, name: 'Streamlit', path: '/assets/streamlit.png' },
+            { id: 1, name: 'Python', path: '/assets/PYTHON .png' },
+            { id: 2, name: 'AI', path: '/assets/AI .png ' },
+            { id: 3, name: 'Streamlit', path: '/assets/streamlit .png' },
             { id: 4, name: 'Ollama', path: '/assets/ollama.png' },
         ],
     },
