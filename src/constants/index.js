@@ -32,8 +32,8 @@ export const myProjects = [
         company: 'Self-Initiated Project',
         date: 'December 2024',
         desc: 'An AI-powered tool for real-time detection and classification of toxic comments using LLM techniques.',
-        subdesc: 'Integrates advanced NLP and AI models to classify comments as toxic or non-toxic. Uses a Streamlit interface for user interaction and Meta-Llama-3.1-8B-Instruct-Turbo for analysis.https://github.com/lakshiitakalyanasundaram/Toxic_comment_detection-classification_usingAI',
-        href: '/textures/project/project2.mp4',
+        subdesc: 'Integrates advanced NLP and AI models to classify comments as toxic or non-toxic. Uses a Streamlit interface for user interaction and Meta-Llama-3.1-8B-Instruct-Turbo for analysis.',
+        href: 'https://github.com/lakshiitakalyanasundaram/Toxic_comment_detection-classification_usingAI',
         texture: '/textures/project/project2.mp4',
         logo: '/assets/stm.png',
         logoStyle: {
