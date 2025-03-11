@@ -78,7 +78,7 @@ const About = () => {
                                     opportunities worldwide and on-site roles, ready to collaborate and contribute
                                     wherever
                                     needed.</p>
-                                <a href="/textures/project/K. Lakshiita (Resume).pdf" target="_blank" rel="noopener noreferrer">
+                                <a href="/textures/project/K.Lakshiita (resume).pdf" target="_blank" rel="noopener noreferrer">
                                     <Button name="Click here for Resume" isBeam containerClass="w-full mt-10"/>
                                 </a>
                             </div>
