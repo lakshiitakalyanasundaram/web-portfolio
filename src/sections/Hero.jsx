@@ -57,13 +57,11 @@ const Hero = () => {
                 </Canvas>
             </div>
 
-            {/*<div className="absolute bottom-7 left-0 right-0 w-full z-10 c-space">
-                <a href="public/assets/K. Lakshiita (Resume).pdf" target="_blank" rel="noopener noreferrer" className="w-fit">
+            <div className="absolute bottom-7 left-0 right-0 w-full z-10 c-space">
+                <a href="/assets/K.Lakshiita.pdf" target="_blank" rel="noopener noreferrer" className="w-fit">
                     <Button name="Click here for Resume" isBeam containerClass="sm:w-fit w-full sm:min-w-96"/>
                 </a>
-
             </div>
-            */}
         </section>
     );
 };
